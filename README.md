@@ -4,4 +4,5 @@ install using:
 ```git
 git clone https://github.com/Charlie-Edwards/nocturnal.git
 cd nocturnal
-python main.py```
+python main.py
+```
